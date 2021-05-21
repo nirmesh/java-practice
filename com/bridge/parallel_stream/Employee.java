@@ -7,7 +7,7 @@ public class Employee {
     private double salary;
     private String grade;
 
-
+//contructor
     public Employee(){
 
     }
